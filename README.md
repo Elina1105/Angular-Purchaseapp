@@ -1,2 +1,2 @@
-# Laravel---purchaseapp
+# Laravel-Purchaseapp
 Створення проекту purchaseapp за допомогою framework Laravel
